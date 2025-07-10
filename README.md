@@ -72,7 +72,7 @@ Used `matplotlib` and `seaborn` to analyze and visualize:
 | File Name                         | Description                               |
 |----------------------------------|-------------------------------------------|
 | `Walmart_Sales_Data.csv`         | Original dataset                          |
-| `Walmart_cleaned_Sales_Data.csv` | Cleaned dataset with new features         |
+| `cleaned_sales_data.csv` | Cleaned dataset with new features         |
 | `walmart_analysis.ipynb`         | Full notebook with cleaning + EDA         |
 | `README.md`                      | Project summary and documentation         |
 
